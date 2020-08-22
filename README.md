@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 Currently a Year 13 A level Computer Science student
+
+
+### 🌐 Connect with me
+
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <!--
 **Ortovoxx/Ortovoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
