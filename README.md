@@ -1,9 +1,11 @@
-### Hi there 👋 Currently a Year 13 A level Computer Science student
+### Hi there 👋
 
+#### I am currently a Year 13 A level student studying
+🧮 Maths
+🔭 Physics
+🖥️ Computer Science
 
-### 🌐 Connect with me
-
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img height="22" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 
 <!--
 **Ortovoxx/Ortovoxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
